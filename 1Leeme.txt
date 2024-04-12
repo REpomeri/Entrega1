@@ -1,0 +1,26 @@
+Evaluación 1 PROGRAMACIÓN WEB SECCIÓN 5
+PROFESOR:Gonzalo Perez Correa
+CASO: Taller Rayo Makween
+INTEGRANTES: Renato Pomeri Navarrete
+
+ACONTACIONES:
+
+*La pagina principal es el archivo "index.html".
+
+*La pagina tiene 4 difirentes scrips, uno para el buscador, uno para el login,
+uno para el formulario y uno para el carrito de compra.
+
+*El buscador funciona con las palabras claves "valvula", "suspencion", "scanner",
+"patente", "juan", "francisco", "ignacio" y "jhon". Esto te envia a la pagina de los
+trabajos o de los mecánicos respectivamente.
+
+*El primer carrusel al hacer click en el trabajo de redirecciona a la pagina de este.
+
+*El login y el formulario de contacto son funcionales con sus respectivas restricciónes.
+
+*Se puede reservar hora para una especialidad en la pagina  de "SERVICIOS".
+
+*Las fotografias de los mecanicos se redireccionan a su pagina con mas información.
+
+*Existe un carrrito de compras totalmente funcional.
+
